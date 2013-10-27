@@ -8,8 +8,8 @@ if(!defined('IN_ADMINCP')) exit();
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="HandheldFriendly" content="true" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
-<meta name="author" content="kookxiang" />
-<meta name="copyright" content="KK's Laboratory" />
+<meta name="author" content="Panni_007" />
+<meta name="copyright" content="Panni_Sec" />
 <link rel="shortcut icon" href="/favicon.ico" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 <link rel="stylesheet" href="./style/main.css?version=<?php echo VERSION; ?>" type="text/css" />
@@ -90,7 +90,7 @@ foreach($classes as $id=>$obj){
 </div>
 </div>
 </div>
-<p class="copyright">当前版本：<?php echo VERSION; ?> <?php if(MCACHE::isAvailable()) echo '- Memcached '; ?>- <a href="https://me.alipay.com/kookxiang" target="_blank">赞助开发</a><br>Designed by <a href="http://www.ikk.me" target="_blank">kookxiang</a>. 2013 &copy; <a href="http://www.kookxiang.com" target="_blank">KK's Laboratory</a><br>请勿擅自修改程序版权信息或将本程序用于商业用途！</p>
+<p class="copyright">当前版本：<?php echo VERSION; ?> <?php if(MCACHE::isAvailable()) echo '- Memcached '; ?>- <br>Designed by <a href="http://www.panni007.com" target="_blank">Panni_007</a>. 2013 &copy; <a href="http://www.panni007.com" target="_blank">Panni_Sec</a><br>请勿擅自修改程序版权信息或将本程序用于商业用途！</p>
 </div>
 <script src="//libs.baidu.com/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript">
